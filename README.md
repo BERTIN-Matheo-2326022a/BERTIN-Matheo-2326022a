@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mathéo BERTIN (Alias Navaha)
 - 👀 I’m interested in videogames (but like really)
-- 🌱 I’m currently learning a PHP
+- 🌱 I’m currently learning PHP
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm autistic (is that really a fun fact ?)
 
